@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
 box-sizing: border-box;
 height: 100%;
@@ -53,3 +54,9 @@ background-color: #03a9f4;
 #paris {
 background-color: #d32f2f;
 }
+||||||| merged common ancestors
+=======
+.destination:hover h2 {
+transform: rotate(0deg);
+}
+>>>>>>> 36a0bbd46c26f1074cd394f3f4e76e060bac68cd
